@@ -1,0 +1,86 @@
+# 🦮 Blind Assistant - Git Ignore File
+# Exclude large files, datasets, and sensitive information
+
+# Large model files (provide download links instead)
+*.pt
+*.pkl
+*.h5
+*.model
+
+# Dataset directories (too large for GitHub)
+datasets/
+data/
+training_data/
+
+# Virtual environment
+blind_assistant_env/
+venv/
+env/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+temp/
+logs/
+
+# Personal/sensitive files
+*.key
+*.pem
+*.p12
+config.ini
+secrets.json
+.env.local
+
+# Test images and samples
+test_*.jpg
+test_*.png
+sample_*.jpg
+sample_*.png
+
+# Zone Identifier files (Windows)
+*:Zone.Identifier
+
+# Large output files
+output/
+results/
+exports/
