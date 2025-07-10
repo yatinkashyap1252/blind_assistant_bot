@@ -181,17 +181,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Project Author:** [Your Name]
-- **Email:** [your.email@college.edu]
+- **Project Author:** Yatin Kashyap
+- **Email:** [yatinkashyap1252@gmail.com]
 - **College:** [Your College Name]
 - **Course:** AI/ML Project
 
 ## 🔗 Links
 
-- **Demo Video:** [YouTube Link]
-- **Project Presentation:** [Slides Link]
-- **Dataset Sources:** [Kaggle/GitHub Links]
-- **Model Downloads:** [Google Drive/GitHub Releases]
+- **Dataset Sources:** [Face dataset](https://www.kaggle.com/datasets/vasukipatel/face-recognition-dataset)
+- **Dataset Sources:** [Currency dataset](https://www.kaggle.com/datasets/yashdogra/2000-notes)]
+- **Dataset Sources:** [Sign Language dataset](https://www.kaggle.com/datasets/datamunge/sign-language-mnist)
 
 ---
 
